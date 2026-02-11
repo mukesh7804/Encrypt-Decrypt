@@ -15,7 +15,7 @@ Enter the text you want to encrypt or decrypt in the input field provided.
 Click the submit button.
 The result will be displayed in the output section.
 Examples
-Encryption If you want to encrypt the message "HELLO" with a shift of 3, the resulting ciphertext will be "KHOOR".
+Encryption If you want to encrypt the message "Hello world" with a shift of 3, the resulting ciphertext will be "Khoor Zruog".
 
 This Project is not deployed yet. Hence, I am uploading the screenshots for clarity how it works.
 
@@ -28,7 +28,7 @@ Encode
 
 
 Decryption
-To decrypt the ciphertext "KHOOR" with a shift of 3, the original plaintext "HELLO" will be recovered.
+To decrypt the ciphertext "Khoor Zruog" with a shift of 3, the original plaintext "Hello World" will be recovered.
 Decode 
 
 <img width="1654" height="745" alt="Screenshot 2026-02-11 163139" src="https://github.com/user-attachments/assets/c9f318c1-6a6f-49e1-ba17-43559240ccdd" />
