@@ -16,9 +16,14 @@ Click the submit button.
 The result will be displayed in the output section.
 Examples
 Encryption If you want to encrypt the message "HELLO" with a shift of 3, the resulting ciphertext will be "KHOOR".
+<img width="1569" height="715" alt="Screenshot 2026-02-11 162935" src="https://github.com/user-attachments/assets/a6a25e33-3585-4ddf-b844-283363e44db1" />
+<img width="1666" height="757" alt="Screenshot 2026-02-11 162956" src="https://github.com/user-attachments/assets/8e111da9-016e-49f2-9c47-92dff505bb81" />
+
 
 Decryption
 To decrypt the ciphertext "KHOOR" with a shift of 3, the original plaintext "HELLO" will be recovered.
+<img width="1654" height="745" alt="Screenshot 2026-02-11 163139" src="https://github.com/user-attachments/assets/c9f318c1-6a6f-49e1-ba17-43559240ccdd" />
+
 
 Files
 The project consists of the following files:
